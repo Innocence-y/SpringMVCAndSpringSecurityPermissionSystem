@@ -1,0 +1,2 @@
+# SpringMVCAndSpringSecurityPermissionSystem
+基于SpringMVC和SpringSecurity的权限管理系统
